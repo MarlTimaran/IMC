@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculation of IMC</string>
+    <string name="btn1">Calculator</string>
+    <string name="btn3">Information</string>
+    <string name="btn2">Help</string>
+    <string name="etA">enter your height \"Cm\"</string>
+    <string name="etp">enter your weight \"Kg\"</string>
+    <string name="button">Exit</string>
+    <string name="button9">Exit</string>
+    <string name="textView">Marlon Timaran Villota</string>
+    <string name="textView3">Email: marltimaran@umariana.edu.co</string>
+    <string name="textView4">Web development is a term that defines the creation of websites for the Internet or an intranet. To achieve this, use is made of server-side and client-side software technologies that involve a combination of database processes with the use of a web browser in order to perform certain tasks or display information.</string>
+    <string name="tv99">WELCOME</string>
+    <string name="txt_campos">empty levels</string>
+    <string name="pesonormal">Normal weight</string>
+    <string name="dele">light thinness</string>
+    <string name="delgadezsevera">severe thinness</string>
+    <string name="demode">moderate thinness</string>
+    <string name="obele">mild obesity</string>
+    <string name="obemo">moderate obesity</string>
+    <string name="obme">average obesity</string>
+    <string name="salir">Exit</string>
+    <string name="sope">overweight</string>
+</resources>

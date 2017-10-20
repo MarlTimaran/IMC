@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sistemas.imc1.MainActivity">
+
+    <EditText
+        android:id="@+id/etP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/etp"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/etA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/etA"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="70dp" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:onClick="calcularImc"
+        android:text="@string/btn1"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="123dp"
+        tools:text="Calcular" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:onClick="info"
+        android:text="@string/btn3"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:onClick="acercade"
+        android:text="@string/btn2"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <LinearLayout
+        android:id="@+id/delagadez_s"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"></LinearLayout>
+
+    <ImageSwitcher
+        android:id="@+id/imagenes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

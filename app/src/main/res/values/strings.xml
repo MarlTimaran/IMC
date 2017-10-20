@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC1</string>
+    <string name="btn1">Calcular</string>
+    <string name="btn3">Informacion</string>
+    <string name="btn2">Acerca de</string>
+    <string name="etp">Ingrese su peso \"Kg\"</string>
+    <string name="etA">Ingrese su altura \"Cm\"</string>
+    <string name="button">Salir</string>
+    <string name="button9">Salir</string>
+    <string name="textView">Marlon Timaran Villota</string>
+    <string name="textView3">Correo: marltimaran@umariana.edu.co</string>
+    <string name="textView4">Desarrollo web es un término que define la creación de sitios web para Internet o una intranet. Para conseguirlo se hace uso de tecnologías de software del lado del servidor y del cliente que involucran una combinación de procesos de base de datos con el uso de un navegador web a fin de realizar determinadas tareas o mostrar información.</string>
+    <string name="tv99">BIENVENIDO</string>
+    <string name="txt_campos">campos vacios</string>
+    <string name="pesonormal">peso normal</string>
+    <string name="delgadezsevera">Delgadez Severa</string>
+    <string name="demode">delgadez moderada</string>
+    <string name="dele">Delgadez leve</string>
+    <string name="sope">Sobrepeso</string>
+    <string name="obele">Obesidad leve</string>
+    <string name="obme">Obesidad media</string>
+    <string name="obemo">Obesidad mordida</string>
+    <string name="salir">Salir</string>
+</resources>
